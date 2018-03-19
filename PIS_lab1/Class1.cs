@@ -8,5 +8,6 @@ namespace PIS_lab1
 {
     class Class1
     {
+        int c = 5;
     }
 }
