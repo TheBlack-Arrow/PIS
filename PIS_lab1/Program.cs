@@ -12,6 +12,8 @@ namespace PIS_lab1
         {
             int a = 5;
             int b = 6;
+
+            Console.WriteLine("Hello world!");
         }
     }
 }
